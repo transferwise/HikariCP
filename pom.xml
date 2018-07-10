@@ -29,7 +29,7 @@
 
    <groupId>com.zaxxer</groupId>
    <artifactId>HikariCP</artifactId>
-   <version>3.1.0</version>
+   <version>3.1.0-enhanced-log</version>
    <packaging>bundle</packaging>
 
    <name>HikariCP</name>
